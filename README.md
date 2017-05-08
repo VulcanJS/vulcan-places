@@ -1,5 +1,13 @@
 # Vulcan Forms Place
 
+### Install
+
+```
+meteor add vulcan:places
+```
+
+### Usage
+
 This package enables two distinct features, which can be used separately or together: 
 
 1. A `PlaceControl` autocomplete form component that lets users fill in a place via the Google Maps Places API.
