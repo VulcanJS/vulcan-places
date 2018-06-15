@@ -20,6 +20,10 @@ Both require setting your Google Maps API key in your `settings.json` file's `pu
   "apiKey": "123foo"
 }
 ```
+And install npm packages :
+```
+npm install --save @google/maps react-places-autocomplete
+```
 
 ### Place Form Control
 
